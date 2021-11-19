@@ -1,0 +1,3 @@
+FILE src/main/resources/vending.csv HAS BEEN READ AT 2021-11-17T14:42:19.700100
+FILE src/main/resources/vending.csv HAS BEEN READ AT 2021-11-17T14:44:56.330075
+FILE src/main/resources/vending.csv HAS BEEN READ AT 2021-11-17T20:59:14.171060
